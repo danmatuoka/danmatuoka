@@ -1,10 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador">
 
-# 👋 Hi, I'm Daniel Matuoka.
-- 💻 Front-end developer.
+Hi 👋 My name is Daniel Matuoka
+===============================
+
+Front-end Developer
+-------------------
+
 - 👀 I’m interested in technology stuffs, code and web development.
 - 🌱 I’m currently learning node.js and SQL at Kenzie Academy Brazil, to become a full stack developer.
+- 🤝 I'm open to collaborating on interesting projects as a developer.
 
+
+## Socials
 <a target="_blank" href="https://www.linkedin.com/in/danielmatuoka/">
 <img height="21" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmatuoka/"/></a> 
 <a target="_blank" href="mailto:dan_mtk@hotmail.com">
@@ -18,7 +25,7 @@
 </a>
 
 ## Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <a href="https://github.com/danmatuoka">
  <img align="center" alt="Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -30,7 +37,6 @@
 <br>
 
 ## GitHub Stats
-
 <div>
 <a href="https://github.com/danmatuoka">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danmatuoka&show_icons=true&theme=cobalt"/> 
