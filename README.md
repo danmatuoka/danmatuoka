@@ -8,20 +8,18 @@ Front-end Developer
 
 - 👀 I’m interested in technology stuffs, code and web development.
 - 🌱 I’m currently learning node.js and SQL at Kenzie Academy Brazil, to become a full stack developer.
-- 🤝 I'm open to collaborating on interesting projects as a developer.
+- 🤝 I'm open to work and collaborating on interesting projects as a developer.
+- ✉️  You can contact me at [dan\_mtk@hotmail.com](mailto:dan_mtk@hotmail.com)
 
 
 ## Socials
 <a target="_blank" href="https://www.linkedin.com/in/danielmatuoka/">
-<img height="21" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmatuoka/"/></a> 
-<a target="_blank" href="mailto:dan_mtk@hotmail.com">
-<img height="21" src="https://img.shields.io/badge/-dan_mtk@hotmail.com-006bed?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:dan_mtk@hotmail.com"
-</a>
+<img height="23" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielmatuoka/"/></a> 
 <a target="_blank" href="https://www.instagram.com/dan_mtk_/">
-<img height="21" src="https://img.shields.io/badge/-dan_mtk_-E4405F?style=flat-square&logo=instagram&logoColor=white"
+<img height="23" src="https://img.shields.io/badge/-dan_mtk_-E4405F?style=flat-square&logo=instagram&logoColor=white"
 </a>
 <a target="_blank" href="https://www.codewars.com/users/dan-matuoka">
-<img height="21" src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white"
+<img height="23" src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white"
 </a>
 
 ## Skills
