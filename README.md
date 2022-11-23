@@ -3,11 +3,11 @@
 Hi 👋 My name is Daniel Matuoka
 ===============================
 
-Front-end Developer
+FullStack | Front-end Developer
 -------------------
 
 - 👀 I’m interested in technology stuffs, code and web development.
-- 🌱 I’m currently learning node.js and SQL at Kenzie Academy Brazil, to become a full stack developer.
+- 🌱 I’m currently studying python and django at Kenzie Academy Brazil, to become a full stack developer.
 - 🤝 I'm open to work and collaborating on interesting projects as a developer.
 - ✉️  You can contact me at [dan\_mtk@hotmail.com](mailto:dan_mtk@hotmail.com)
 
@@ -30,6 +30,10 @@ Front-end Developer
  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img align="center" alt="jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
 </div>
 
 <br>
