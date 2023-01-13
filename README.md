@@ -7,7 +7,7 @@ FullStack | Front-end Developer
 -------------------
 
 - 👀 I’m interested in technology stuffs, code and web development.
-- 🌱 I’m currently studying python and django at Kenzie Academy Brazil, to become a full stack developer.
+- 🌱 I’m currently studying python and django.
 - 🤝 I'm open to work and collaborating on interesting projects as a developer.
 - ✉️  You can contact me at [dan\_mtk@hotmail.com](mailto:dan_mtk@hotmail.com)
 
