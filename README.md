@@ -44,10 +44,10 @@ FullStack | Front-end Developer
 ## GitHub Stats
 <div>
 <a href="https://github.com/danmatuoka">
-<img height="160em" src="https://github-stats-one-tau.vercel.app/api?username=danmatuoka&show_icons=true&theme=cobalt"/> 
-<img height="160em" src="https://github-stats-one-tau.vercel.app/api/top-langs/?username=danmatuoka&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=danmatuoka&show_icons=true&theme=cobalt"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmatuoka&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-
+ 
 <!---
 danmatuoka/danmatuoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
